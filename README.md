@@ -4,4 +4,4 @@
 <p>Master Mind is a memory game where you have to remember proper order of shaking buttons. Every round the game gets harder.
 Built in Vanilla JS.</p>
 <h3>Live:</h3>
-<a src="https://bartoszbednarczyk.github.io/MasterMind/">MasterMind</a>
+<a href="https://bartoszbednarczyk.github.io/MasterMind/">MasterMind</a>
